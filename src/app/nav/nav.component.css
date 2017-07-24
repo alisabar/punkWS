@@ -1,3 +1,4 @@
+
 a#logo{
     position: relative;
     display: inline-block;
@@ -101,6 +102,7 @@ a.audience{
     height:41px;
     background-color:black;
     z-index: 1;
+
 }
 a.bands{
     text-decoration: none;
@@ -129,6 +131,7 @@ a.bands{
     width: 968px;
     height:58px; 
     background:black;
+
    
 }
 .search a{
@@ -155,3 +158,5 @@ input[type=text] {
     font-size: 40px;
     top: 2px;
  }
+
+   

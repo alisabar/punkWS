@@ -3,6 +3,8 @@ aside{
     display:inline-block;
     height:83%;
     width:42%;
+    flex: 1 2 42%;
+        order: 1;
 }
 .vertical_line{
  position: absolute;
